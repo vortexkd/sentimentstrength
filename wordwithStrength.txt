@@ -1393,6 +1393,7 @@ wrongheadedly	0.5
 wrongdoing	0.5
 wretchedly	0.5
 wrathfully	0.5
+wow	0.5
 wormlike	0.5
 wordily	0.5
 wooden-headed	0.5
@@ -8169,7 +8170,6 @@ compliance	0.208333333
 charged	0.208333333
 benign	0.208333333
 awake	0.208333333
-wow	0.5
 strain	-0.203125
 washy	-0.208333333
 variation	-0.208333333
